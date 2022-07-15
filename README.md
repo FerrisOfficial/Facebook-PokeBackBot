@@ -4,8 +4,8 @@ This bot pokes back people from https://www.facebook.com/pokes
 
 ## Requirements
 
-Google Chrome `https://www.google.com/intl/pl_pl/chrome/`**
-Chromedrivers `https://chromedriver.chromium.org`**
+Google Chrome `https://www.google.com/intl/pl_pl/chrome/`__
+Chromedrivers `https://chromedriver.chromium.org`__
 Selenium `python -m pip install selenium`
 
 ## User Manuala
