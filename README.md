@@ -4,11 +4,11 @@ This bot pokes back people from https://www.facebook.com/pokes
 
 ## Requirements
 
-Google Chrome `https://www.google.com/intl/pl_pl/chrome/`
-Chromedrivers `https://chromedriver.chromium.org`
+Google Chrome `https://www.google.com/intl/pl_pl/chrome/`**
+Chromedrivers `https://chromedriver.chromium.org`**
 Selenium `python -m pip install selenium`
 
-## User Manual
+## User Manuala
 
 Fill in these lines of code according to your Facebook login details
 
