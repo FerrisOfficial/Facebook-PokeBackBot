@@ -10,7 +10,7 @@ Selenium `python -m pip install selenium`
 
 ## User Manuala
 
-Fill in these lines of code according to your Facebook login details
+Fill in these lines of code according to your Facebook login details:
 
 ```
 userName = "Jan@gmail.com"
@@ -23,3 +23,5 @@ Select the location of the drivers and complete it in this line:
 driver = webdriver.Chrome(options=options, executable_path =
 r"C:/chromedriver_win32/chromedriver.exe", chrome_options = option)
 ```
+
+Start the program with `python main.py`
