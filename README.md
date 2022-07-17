@@ -8,7 +8,7 @@ Google Chrome `https://www.google.com/intl/pl_pl/chrome/`
 Chromedrivers `https://chromedriver.chromium.org`  
 Selenium `python -m pip install selenium`
 
-## User Manuala
+## User Manual
 
 Fill in these lines of code according to your Facebook login details:
 
