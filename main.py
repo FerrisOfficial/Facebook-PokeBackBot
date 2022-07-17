@@ -1,13 +1,17 @@
+#imports
 import os 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
+#alerts ingonre
 import warnings
 warnings.filterwarnings("ignore")
 
+#login details
 userName = "Jan@gmail.com"
 passWord = "12345678pass"
 
+#login to facebook
 os.system('cls')    
 
 option = Options()
@@ -65,9 +69,3 @@ while(True):
             else:
                 pokeBox.click()
                 driver.refresh()
-
-        
-
-    
-
-# /html/body/div[1]/div/div[1]/div/div[3]/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/div/div/div[1]/div[2]/div[2]/div/div/div/div/div[1]/div/span/span
